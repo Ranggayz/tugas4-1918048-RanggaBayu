@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">tugasrumah4_recycle</string>
+    <string-array name="character">
+        <item>Drac</item>
+        <item>Mavis</item>
+        <item>Jhonathan</item>
+        <item>Baby Denis</item>
+        <item>Frankeinstain</item>
+        <item>Wayne</item>
+        <item>Youtube</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Drac adalah pemilik trasylvania</item>
+        <item>Mavis adalah anak drac</item>
+        <item>Jhonatan adalah pasangan mavis</item>
+        <item>Denis adalah anak dari jonathan dan mavis</item>
+        <item>Frankeinstain adalah sahabat drac</item>
+        <item>Wayne adalah sahabat drac</item>
+    </string-array>
+</resources>
